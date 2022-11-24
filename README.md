@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @pathfinderNdoma
+- I am a certified Udacity Data Analyst. 
 - 👀 I’m interested in cloud computing, network security and Internet of Things
 - 🌱 I’m currently learning web developement. 
 - 💞️ I’m looking to collaborate on IoT cloud applications
